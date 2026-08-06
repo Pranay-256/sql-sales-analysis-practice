@@ -111,14 +111,19 @@ Performed an **INNER JOIN** between two sales tables to retrieve:
 
 ---
 
-# 📂 Project Structure
+## 📂 Repository Structure
 
 ```text
-SQL-Sales-Practice/
+sql-sales-analysis-practice/
 │
-├── SQL_Practice.sql        # Complete SQL queries
-├── README.md               # Project documentation
-└── Dataset.csv             # Sample sales dataset
+├── datasets/
+│   ├── SQL_Sales_Dataset.csv
+│   └── SQL_Sales_Dataset2.csv
+│
+├── sql file/
+│   └── sql sales analysis practice.sql
+│
+└── README.md
 ```
 
 ---
